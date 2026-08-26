@@ -4,4 +4,10 @@ body {
 
 h1 {
     text-align: left;
+    font-size: 40px;
+    font-family: "Jost";
+}
+
+.hayabeen {
+    font-size: 30px;
 }
