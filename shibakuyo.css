@@ -1,5 +1,7 @@
 body {
     text-align: center;
+    font-family: "Noto Sans JP";
+    font-weight: 400;
 }
 
 h1 {
@@ -10,4 +12,8 @@ h1 {
 
 .hayabeen {
     font-size: 30px;
+}
+
+.美しき {
+    font-family: "Lavishly Yours";
 }
