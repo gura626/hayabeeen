@@ -8,8 +8,10 @@ h1 {
     text-align: left;
     font-size: 40px;
     font-family: "Jost";
+    padding-left: 10px;
 }
 
 .hayabeen {
     font-size: 30px;
+    padding-bottom: 20px;
 }
