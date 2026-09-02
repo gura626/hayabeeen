@@ -31,7 +31,7 @@ footer {
 
 /* Flow（フロー）は WebGL 描画。CSS はスポット配置を radial-gradient の重ねで近似した静的版です。 */
 
-.body {
+body {
   background-color: #8688C0;
   background-image:
     radial-gradient(at 20% 26%, #8688C0 0px, transparent 62%),
