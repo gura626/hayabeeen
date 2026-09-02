@@ -2,10 +2,12 @@ body {
     text-align: center;
     font-family: "Klee one";
     font-weight: 400;
-}
-
-header {
-    background-color: #FFFFFF;
+    background-color: #8688C0;
+    background-image:
+    radial-gradient(at 20% 26%, #8688C0 0px, transparent 62%),
+    radial-gradient(at 80% 22%, #7BFFFF 0px, transparent 62%),
+    radial-gradient(at 72% 80%, #E0FFF9 0px, transparent 62%);
+    aspect-ratio: 16 / 9;
 }
 
 h1 {
@@ -28,18 +30,7 @@ footer {
     
 }
 
-/* Flow（フロー）は WebGL 描画。CSS はスポット配置を radial-gradient の重ねで近似した静的版です。 */
 
-body {
-  background-color: #8688C0;
-  background-image:
-    radial-gradient(at 20% 26%, #8688C0 0px, transparent 62%),
-    radial-gradient(at 80% 22%, #7BFFFF 0px, transparent 62%),
-    radial-gradient(at 72% 80%, #E0FFF9 0px, transparent 62%);
-  aspect-ratio: 16 / 9;
-}
-
-/* スタイル: Pastel / 質感: Frosted / スケール 50% / ゆがみ 55% */
 /* 元の色: #2E3192, #1BFFFF, #C9FFF4 */
 /* テキスト: なし */
 
