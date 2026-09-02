@@ -2,12 +2,7 @@ body {
     text-align: center;
     font-family: "Klee one";
     font-weight: 400;
-    background-color: #8688C0;
-    background-image:
-    radial-gradient(at 20% 26%, #8688C0 0px, transparent 62%),
-    radial-gradient(at 80% 22%, #7BFFFF 0px, transparent 62%),
-    radial-gradient(at 72% 80%, #E0FFF9 0px, transparent 62%);
-    aspect-ratio: 16 / 9;
+    background-color: #FFFFFF;
 }
 
 h1 {
